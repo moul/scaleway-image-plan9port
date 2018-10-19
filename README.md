@@ -1,6 +1,8 @@
 Plan9port image on Online Labs
 ==============================
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/scaleway-image-plan9port.svg)](https://www.guardrails.io)
+
 Scripts to build the Plan9Port image on Online Labs
 
 This image is built using [Image Tools](https://github.com/online-labs/image-tools) and depends on the official [Ubuntu](https://github.com/online-labs/image-ubuntu) image.
